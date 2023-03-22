@@ -1,0 +1,6 @@
+com\mycompany\telasprojeto\entity\Documento_.class
+com\mycompany\telasprojeto\entity\Pessoa.class
+com\mycompany\telasprojeto\entity\Documento.class
+com\mycompany\telasprojeto\face\ControlePessoa.class
+com\mycompany\telasprojeto\entity\Pessoa_.class
+com\mycompany\telasprojeto\service\PessoaService.class
